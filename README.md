@@ -13,9 +13,9 @@
 | Lớp          | CS117.O22                   |
 | GV Lý Thuyết| TS Ngô Đức Thành          |
 
+# Đồ án quản lý chi tiêu
 
-
-# Thông tin thành viên
+# Thông tin thành viên nhóm 7
 
 | MSSV     | Họ và Tên        | Email                   |
 |----------|------------------|-------------------------|
